@@ -1,6 +1,6 @@
 # Hi, I'm Amit Shukla 👋
 
-### Lead Software Engineer · Software · Cloud · Infrastructure · Platform Engineering
+### Lead Software Engineer · Software + Cloud + Infrastructure + Platform Engineering + AI
 
 I build and operate production software across the stack — from backend systems and APIs to cloud infrastructure, deployment automation, CI/CD, and AI-powered developer tooling.
 
